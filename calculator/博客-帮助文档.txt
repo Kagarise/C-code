@@ -1,0 +1,2 @@
+外网地址（访问较慢）：https://kagarise.cn/2020/04/20/calculator/
+内网地址（访问较快）：http://121.36.9.114/2020/04/20/calculator/
